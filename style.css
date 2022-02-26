@@ -2,7 +2,7 @@
 /* top bg image */
 .bgimage {
     height:100vh;
-    background: url('stock-photo5.jpg');
+    background: url('./pics/stock-photo5.jpg');
     background-size:cover;
     position:relative;
 }
